@@ -1,6 +1,6 @@
 # sis-model-extensions
 A simulation-based project that models the spread of infectious diseases using an SIS framework, with control strategies (vaccinations and isolation)).
-# 🧪 Epidemic Control Strategy Simulator
+# Epidemic Control Strategy Simulator
 
 This project explores mathematical modeling of infectious disease dynamics using various extensions of the classic SIS (Susceptible-Infectious-Susceptible) model. The models incorporate quarantine, vaccination, and feedback control strategies to simulate the spread and control of diseases in a population.
 
@@ -8,7 +8,7 @@ Built in Python using differential equations and simulated via `solve_ivp`, this
 
 ---
 
-## 📚 Models Implemented
+## Models Implemented
 
 | Model    | Description |
 |----------|-------------|
@@ -21,7 +21,7 @@ Each model tracks different compartments like Susceptible (S), Infected (I), Qua
 
 ---
 
-## 🔬 Mathematical Foundation
+## Mathematical Foundation
 
 The models are based on systems of ODEs. The `SIQVS` model, for instance, uses the following structure:
 
@@ -34,7 +34,7 @@ The basic reproduction number \( R_0 \) is also computed analytically for each m
 
 ---
 
-## 📈 Features
+##Features
 
 - Multiple epidemic models with increasing complexity
 - Interactive sliders for real-time parameter tuning (in `SIQVS`)
@@ -43,9 +43,9 @@ The basic reproduction number \( R_0 \) is also computed analytically for each m
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
-### 📦 Requirements
+### Requirements
 
 Install dependencies with:
 
