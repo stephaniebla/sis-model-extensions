@@ -34,7 +34,7 @@ The basic reproduction number \( R_0 \) is also computed analytically for each m
 
 ---
 
-##Features
+## Features
 
 - Multiple epidemic models with increasing complexity
 - Interactive sliders for real-time parameter tuning (in `SIQVS`)
